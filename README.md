@@ -176,8 +176,8 @@ Jetpack Compose memberikan pengalaman development yang lebih modern, cepat, dan 
 ## Screenshot
 
 ### Portrait Mode
-![Screenshot Portrait](potraiit_mode.png)
+![Screenshot Portrait](potrait_mode.png)
 
 ### Landscape Mode
-![Screenshot Landscape](landscape_mode..png)
+![Screenshot Landscape](landscape_mode.png)
 
