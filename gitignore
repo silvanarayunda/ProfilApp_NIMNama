@@ -1,0 +1,22 @@
+# Android Studio
+.idea/
+.gradle/
+local.properties
+*.iml
+
+# Build output
+/build/
+*/build/
+
+# Log & cache
+*.log
+.cache/
+captures/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Keystore & sensitive
+*.jks
+*.keystore
